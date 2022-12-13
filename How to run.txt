@@ -1,0 +1,1 @@
+To run the project please run the main Java file Simulation.java inside the Folder FinalProject -> src -> Simulation -> Simulation.java 
